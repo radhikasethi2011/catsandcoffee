@@ -3,8 +3,6 @@
 #
 
 # Name of your site (displayed in the header)
-- name: Jekyll Deploy Action
-  uses: jeffreytse/jekyll-deploy-action@v0.1.4
 
 name: Meghana & Radhika & Mau!
 
