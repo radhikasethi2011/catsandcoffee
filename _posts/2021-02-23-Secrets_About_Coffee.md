@@ -7,7 +7,7 @@ The past few days have been beginning and ending with a different batch of beans
 Although there are some things I've learnt over these past few months, and corrected a few point of views I've had about coffee. Everything I believed about speciality coffee was wrong, only if I could tell the me five years ago, these secrets about coffee that I know now, and how I was so wrong about it! 
 Let's talk about a few common assumptions about coffee, and how they're usually wrong :p 
 
-<!---{% video center /videos/meghana_aeropress.mp4  1080px 608px preload:auto %}--->
+
 (_Cold Brew by [Meghana](http://twitter.com/_aspiringcat)_)
 
 * __Coffee is supposed to be bitter__
